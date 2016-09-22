@@ -1,4 +1,4 @@
-Google API Gmail - Getting Person Info
+Google API Plus - Getting Person Info
 ----------------
 ### Authorization Scopes
 	https://www.googleapis.com/auth/userinfo.email
