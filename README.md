@@ -1,9 +1,13 @@
 Google API Gmail - Getting Person Info
 ----------------
+### Authorization Scopes
+	https://www.googleapis.com/auth/userinfo.email
+
 ### To Initial Google API
 ```JAVA
 PlusAPI plusAPI = new PlusAPI(clientId, clientSecret, refreshToken);
 ```
+
 
 ### Function of Google Plus API
 ```JAVA
